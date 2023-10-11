@@ -17,14 +17,5 @@ public class testSQl {
 //        Start.start();
 //        Start.fileRead();
 //        CreateDBSql.create(new User(0,"","","","",0));
-//
-        UserTest userTest = new UserTest(1,"w","e","w","e",4);
-        UserTest userTest1 = new UserTest();
-        userTest.getId();
-        userTest.setId(1);
-        UserTest userTest2 = UserTest.builder()
-                .id()
-                .login()
-                .login()
     }
 }
